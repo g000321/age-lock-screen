@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3bc90a8ccfe12f170ab5e3f8bd6c9333af37a47d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c867c5337ddc9f659ee8ed865a243e57643f7800">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ab3da529a7e328d710e4d0a3a438547f182f665c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_46000143beed818a2bfdee16abb00f052074744d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\gradle\gradle-2.14.1\caches\modules-2\files-2.1\com.google.auto\auto-common\0.6\cf7212b0f8bfef12657b942df8f4f2cf032d3f41\auto-common-0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cf7212b0f8bfef12657b942df8f4f2cf032d3f41">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\auto-common-0.6_287a0538286ad0aef778ab088b12b00a64e603dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_e8d5232690e3643eddcd75dab21ed747a7933ee0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_d40a7aa2e9e33eb65de3a05c1bbb05496c16dc0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_def6c72e25c79ebc631b83449526bb8cb9b57bbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.1_5da8a85927deca0eb4ab30c5e0eb9eebe53a524d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_cd312f9f61aaf0cdc05d3c994af78c721cc564fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\gradle\gradle-2.14.1\caches\modules-2\files-2.1\com.squareup\javapoet\1.7.0\4fdcf1fc27c1a8f55d1109df986c923152f07759\javapoet-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4fdcf1fc27c1a8f55d1109df986c923152f07759">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\javapoet-1.7.0_6ef5dc53a949fa34749844ed298af7cc7c000617\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_b424ecc57083b54dba6480679ba49926e1b5154a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ba8dbc0814902a5f77f878b3cef902920a7a6874\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\gradle\gradle-2.14.1\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_7abd432d64d0e73b916caae06bf9f833d1888d68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2c9d999a2c5d940a79fbcb2f530bae802abdafe5">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7f4703b8049cd4cfe0adad862b60d84c2a5bb282\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.1_6802fa05207ff76192038b57b88778d5684db888.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_e1d2ef0d8b4497e7a8103c3d4b0e1371525115b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_80b934abcc0706314220a813a6d37e89ef6e77ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.1_170029f84084c9f49b5797a9249abbcdb458e5c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gym\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\support-annotations-24.2.1_15f97567d3f70c51ec8e1605762261f3ca3d87a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_8e7f2ac53432117fcaca4a73166a9081b93139f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_b678b78bd9cb84549ee2f4a4648c35b481b2dd39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\gradle\gradle-2.14.1\caches\modules-2\files-2.1\com.google.auto.service\auto-service\1.0-rc2\51033a5b8fcf7039159e35b6878f106ccd5fb35f\auto-service-1.0-rc2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51033a5b8fcf7039159e35b6878f106ccd5fb35f">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\auto-service-1.0-rc2_4b050bf4aeca2b11502ef55772f1c86da04ad8cb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\gradle\gradle-2.14.1\caches\modules-2\files-2.1\com.jakewharton\butterknife-compiler\8.4.0\22f40cd3f01849c6deeab0a755d2082b2624581\butterknife-compiler-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="022f40cd3f01849c6deeab0a755d2082b2624581">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-compiler-8.4.0_9b4cfc5b0f8f2c7bc216e33950f898e354e90346\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_7574b205a5b13605de1997f3431244039d6c5f1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4e6470fe5081bd76bb727ea9d0d9de373ac5940b">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\com.android.support-gridlayout-v7-24.2.1_71f63cfe104dd622dd603095b0e75d433874b731.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.1_92c4c4f630cb3705373611cc57d9ea5899b54720.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.1_bb43b97254c7cda29e2350466e342ca17c62475f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.1_b424ecc57083b54dba6480679ba49926e1b5154a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_3bc90a8ccfe12f170ab5e3f8bd6c9333af37a47d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\guava-18.0_46000143beed818a2bfdee16abb00f052074744d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\gradle\gradle-2.14.1\caches\modules-2\files-2.1\com.google.auto\auto-common\0.6\cf7212b0f8bfef12657b942df8f4f2cf032d3f41\auto-common-0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cf7212b0f8bfef12657b942df8f4f2cf032d3f41">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\auto-common-0.6_287a0538286ad0aef778ab088b12b00a64e603dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.1_def6c72e25c79ebc631b83449526bb8cb9b57bbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\com.jakewharton-butterknife-8.4.0_cd312f9f61aaf0cdc05d3c994af78c721cc564fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.1_d40a7aa2e9e33eb65de3a05c1bbb05496c16dc0e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_5da8a85927deca0eb4ab30c5e0eb9eebe53a524d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e8d5232690e3643eddcd75dab21ed747a7933ee0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gym\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_15f97567d3f70c51ec8e1605762261f3ca3d87a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\gradle\gradle-2.14.1\caches\modules-2\files-2.1\com.squareup\javapoet\1.7.0\4fdcf1fc27c1a8f55d1109df986c923152f07759\javapoet-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4fdcf1fc27c1a8f55d1109df986c923152f07759">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\javapoet-1.7.0_6ef5dc53a949fa34749844ed298af7cc7c000617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-24.2.1_80b934abcc0706314220a813a6d37e89ef6e77ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\gradle\gradle-2.14.1\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\butterknife-annotations-8.4.0_7abd432d64d0e73b916caae06bf9f833d1888d68.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_6802fa05207ff76192038b57b88778d5684db888\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.1_e1d2ef0d8b4497e7a8103c3d4b0e1371525115b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_ba8dbc0814902a5f77f878b3cef902920a7a6874.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4e6470fe5081bd76bb727ea9d0d9de373ac5940b">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-24.2.1_71f63cfe104dd622dd603095b0e75d433874b731\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\gradle\gradle-2.14.1\caches\modules-2\files-2.1\com.jakewharton\butterknife-compiler\8.4.0\22f40cd3f01849c6deeab0a755d2082b2624581\butterknife-compiler-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="022f40cd3f01849c6deeab0a755d2082b2624581">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\butterknife-compiler-8.4.0_9b4cfc5b0f8f2c7bc216e33950f898e354e90346.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudio\gradle\gradle-2.14.1\caches\modules-2\files-2.1\com.google.auto.service\auto-service\1.0-rc2\51033a5b8fcf7039159e35b6878f106ccd5fb35f\auto-service-1.0-rc2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51033a5b8fcf7039159e35b6878f106ccd5fb35f">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\auto-service-1.0-rc2_4b050bf4aeca2b11502ef55772f1c86da04ad8cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b678b78bd9cb84549ee2f4a4648c35b481b2dd39\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\pre-dexed\release\com.android.support-design-24.2.1_7574b205a5b13605de1997f3431244039d6c5f1d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_170029f84084c9f49b5797a9249abbcdb458e5c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_92c4c4f630cb3705373611cc57d9ea5899b54720\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_bb43b97254c7cda29e2350466e342ca17c62475f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AgeLockScan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\project\AgeLockScan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8e7f2ac53432117fcaca4a73166a9081b93139f1\classes.dex" />
+    </item>
+
+</items>

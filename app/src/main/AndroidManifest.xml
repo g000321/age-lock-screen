@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gym">
+
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+
+    <application
+        android:name=".APP"
+        android:allowBackup="true"
+        android:icon="@drawable/launchericon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".agelockscan.activity.AgeLockActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:excludeFromRecents="true"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:theme="@style/FullscreenTheme">
+            <category android:name="android.intent.category.HOME" />
+              
+        </activity>
+        <activity
+            android:name=".agelockscan.activity.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service android:name=".agelockscan.service.LockService" />
+
+        <activity android:name=".agelockscan.activity.AboutActivity"></activity>
+    </application>
+
+</manifest>

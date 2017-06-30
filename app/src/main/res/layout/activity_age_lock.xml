@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/rl_root"
+    tools:context=".agelockscan.activity.AgeLockActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="50sp"
+        android:text="19"
+        android:layout_marginLeft="11dp"
+        android:layout_marginTop="11dp"
+        android:id="@+id/tv_time"
+        />
+    <TextView
+        android:layout_below="@id/tv_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:text="19"
+        android:layout_marginLeft="11dp"
+        android:id="@+id/tv_data"
+        />
+    <TextView
+        android:layout_below="@id/tv_data"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="19"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginRight="11dp"
+        android:id="@+id/tv_age"
+        />
+    <Button
+        android:id="@+id/bt_open"
+        style="?metaButtonBarButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="解锁"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

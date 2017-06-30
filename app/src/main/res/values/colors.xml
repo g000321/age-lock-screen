@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--base-->
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="gray">#eeeeee</color>
+    <color name="title_font">#281315</color>
+    <color name="main_theme">#73ac2d</color>
+    <color name="button_no_foc">#666666</color>
+    <color name="orange">#f9ba54</color>
+    <color name="trans">#00000000</color>
+    <color name="gray_s">#9b9b9b</color>
+    <color name="gray_font">#333333</color>
+    <color name="bg_activity">#ffffff</color>
+    <color name="bg_share_dia">#00000000</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="colorAccent">#66000000</color>
+
+
+
+
+</resources>
